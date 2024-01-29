@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pixerlortec
+- 👀 I’m interested in game making
+- 🌱 I’m currently learning godot
